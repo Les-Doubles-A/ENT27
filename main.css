@@ -1,0 +1,158 @@
+.bg-filler__img {
+    z-index: 2;
+}
+.ratio>* {
+    left: 50%;
+    max-height: 100%;
+    max-width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+.media-responsive, .wysiwyg img {
+    display: inline-block;
+    height: auto;
+    max-height: 100%;
+    max-width: 100%;
+}
+img {
+    vertical-align: middle;
+}
+img {
+    border-style: none;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+feuille de style user-agent
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+.fo-billboard {
+    position: relative;
+    vertical-align: middle;
+    text-align: center;
+    background-color: #fff;
+}
+body {
+    color: #333;
+}
+body {
+    color: #243238;
+    font-family: Open Sans,sans-serif;
+    font-size: .8125rem;
+    font-weight: 500;
+    line-height: 1rem;
+}
+.div-like, body {
+    font-size: .8125rem;
+    font-weight: 500;
+    line-height: 1rem;
+}
+body {
+    color: #243238;
+    font-family: Open Sans,sans-serif;
+}
+:root {
+    --viewer-container-height: 0;
+    --pdfViewer-padding-bottom: 0;
+    --page-margin: 1px auto -8px;
+    --page-border: 9px solid transparent;
+    --page-border-image: url(images/shadow.png) 9 9 repeat;
+    --spreadHorizontalWrapped-margin-LR: -3.5px;
+    --scale-factor: 1;
+}
+:root {
+    --focus-outline: solid 2px blue;
+    --hover-outline: dashed 2px blue;
+    --freetext-line-height: 1.35;
+    --freetext-padding: 2px;
+    --editorFreeText-editing-cursor: text;
+    --editorInk-editing-cursor: pointer;
+}
+:root {
+    --xfa-unfocused-field-background: url(data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" width="1" height="1"><rect width="100%" height="100%" style="fill:rgba(0,54,255,.13)"/></svg>);
+    --xfa-focus-outline: auto;
+}
+:root {
+    --annotation-unfocused-field-background: url(data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" width="1" height="1"><rect width="100%" height="100%" style="fill:rgba(0,54,255,.13)"/></svg>);
+    --input-focus-border-color: Highlight;
+    --input-focus-outline: 1px solid Canvas;
+    --input-unfocused-border-color: transparent;
+    --input-disabled-border-color: transparent;
+    --input-hover-border-color: #000;
+}
+:root {
+    --panel-hover--background-color: var(--color-primary-lighten-55);
+    --panel-focus--outline-color: var(--color-primary-lighten-20);
+    --scheduler-color-00: var(--color-00);
+}
+:root {
+    --color-transparent: transparent;
+    --color-neutral-lightest: #fff;
+    --color-neutral-lightest-rgb: 255,255,255;
+    --color-neutral-50: #f0eff0;
+    --color-neutral-100: #e5e5e5;
+    --color-neutral-200: #ccc;
+    --color-neutral-300: #b2b2b2;
+    --color-neutral-400: #999;
+    --color-neutral-500: grey;
+    --color-neutral-600: #666;
+    --color-neutral-700: #4d4d4d;
+    --color-neutral-800: #333;
+    --color-neutral-900: #1a1a1a;
+    --color-neutral-darkest: #000;
+    --color-neutral-darkest-rgb: 0,0,0;
+    --color-primary-dark-darken-15: #0c1f35;
+    --color-primary-dark-darken-10: #112c4a;
+    --color-primary-dark: #1b4473;
+    --color-primary-darken-20: #003666;
+    --color-primary: #006dcc;
+    --color-primary-rgb: 0,109,204;
+    --color-primary-lighten-10: #08f;
+    --color-primary-lighten-20: #33a0ff;
+    --color-primary-lighten-45: #b3dbff;
+    --color-primary-lighten-55: #e5f3ff;
+    --color-comp-darker-darken-5: #1a2428;
+    --color-comp-darker: #243238;
+    --color-comp-darker-rgb: 36,50,56;
+    --color-comp-dark: #516e7b;
+    --color-comp-darken-10: #708c9a;
+    --color-comp: #8ea4af;
+    --color-comp-lighten-10: #acbcc4;
+    --color-comp-light: #d7dee2;
+    --color-comp-light-rgb: 215,222,226;
+    --color-comp-light-darken-5: #c8d2d7;
+    --color-comp-light-darken-20: #9cadb7;
+    --color-extra-darken-12-desaturate-30: #9de7cc;
+    --color-extra-darken-7: #a3fadb;
+    --color-extra: #c5fce8;
+    --color-comp-lighter: #f3f5f6;
+    --color-comp-lighter-lighten-2: #f9fafa;
+    --color-warn-dark-darken-20: #590009;
+    --color-warn-dark: #84000d;
+    --color-warn: #bf0013;
+    --color-warn-lighten-20: #ff263c;
+    --color-warn-lighten-55: #ffd8dc;
+    --color-warn-light-darken-43: #5f1800;
+    --color-warn-light-darken-20: #d43500;
+    --color-warn-light-darken-3: #ff612c;
+    --color-warn-light: #ff6c3b;
+Afficher toutes les propriétés (88 autre[s])
+}
+html {
+    font-family: sans-serif;
+    line-height: 1.15;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+*, :after, :before {
+    box-sizing: inherit;
+}
+::selection {
+    background-color: #006dcc;
+    color: #fff;
